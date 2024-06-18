@@ -1,0 +1,2 @@
+SESS timestamp=32596.476898286 pid=247308 sid=176d37de85e7a4f3 exename="/home/nsg/gitrepo/OpenSource/2024OpenSource/uftrace-sandbox/pre/a.out"
+TASK timestamp=32596.476956807 tid=247308 pid=247308
