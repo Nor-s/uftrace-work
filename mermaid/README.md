@@ -133,6 +133,9 @@ export class Diagram {
 
 
 
+
+
+
 ### 해결?
 
 ![image](https://github.com/user-attachments/assets/8c4d0bb6-cf10-45ba-891d-1b27d340adc7)
@@ -145,5 +148,11 @@ export class Diagram {
 
 
 
+![image](https://github.com/user-attachments/assets/8516e003-7f6f-4601-8942-ad7eeca398cf)
 
-
+관련 자료: phpBB와 vBulletin
+- https://stackoverflow.com/questions/16638095/which-charset-is-amplt
+- html 엔티티를 처리하는 관점
+- 특수문자 <, >, & 를 처리할때 방식이 다름
+    -  phpBB: `&amp;lt; → &lt; → <`
+    -  vBulletin: `&amp;lt; → &lt;`
